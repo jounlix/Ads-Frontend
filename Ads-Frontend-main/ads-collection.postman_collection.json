@@ -1,0 +1,20 @@
+{
+	"info": {
+		"_postman_id": "a36f3397-2d32-4bfd-a2f6-52b66141e219",
+		"name": "ads-collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "test",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
